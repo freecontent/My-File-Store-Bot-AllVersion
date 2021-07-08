@@ -1,5 +1,5 @@
 <p align="middle">
-## My-File-Store-Bot
+<b> My-File-Store-Bot </b>
 </p>
 
 This is a telegram bot helps you to store your files and get the share able permanent link 
