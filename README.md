@@ -48,17 +48,4 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 <p align="left">
 </p>
 
-👲 <b>Co-DEV</b>
-
-<p align="middle">
-<img src="https://telegra.ph/file/7f6e81d4546efbea0f218.jpg" width="150" height="150"><br>
-<img src="https://badgen.net/badge/Name/MaxxRider/FF33FF?icon=awesome&labelColor=0080FF"></a>
-<img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/MaxxRider"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
-<a href="https://github.com/MaxxRider"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtu.be/TbMX6aN3GgY"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<p align="left">
-</p>
-
-
 ######## THANK YOU ########
