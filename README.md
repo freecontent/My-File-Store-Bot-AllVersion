@@ -46,5 +46,3 @@ Press the button Deploy to heroku and give the values for the config vars. 👇
 <a href="https://github.com/freecontent"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
 <p align="left">
 </p>
-
-######## THANK YOU ########
