@@ -1,7 +1,4 @@
 ## My-File-Store-Bot
-<!-- <p align="middle">
-<b> My-File-Store-Bot </b>
-</p> -->
 
 This is a telegram bot helps you to store your files and get the share able permanent link 
 
@@ -10,7 +7,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/TG_FreeBots_Support)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/TG_FreeBots_Support)
 
-![Maxx](https://telegra.ph/file/033408792afc4d4f1f8f6.png) 🤖
+## Mandatory Variables 🤖
 
 - `API_HASH:` Get this value from [my.telegram.org](https://my.telegram.org).
 
