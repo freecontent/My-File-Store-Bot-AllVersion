@@ -1,5 +1,4 @@
-
-![Maxx](https://telegra.ph/file/d651c7b7943a9702f846d.png)
+<b> My-File-Store-Bot </b>
 
 This is a telegram bot helps you to store your files and get the share able permanent link 
 
