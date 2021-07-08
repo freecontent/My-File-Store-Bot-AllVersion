@@ -1,4 +1,4 @@
-![Maxx] <b> My-File-Store-Bot </b>
+<b align="center"> My-File-Store-Bot </b>
 
 This is a telegram bot helps you to store your files and get the share able permanent link 
 
