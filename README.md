@@ -1,4 +1,4 @@
-<b style="font-size: 60px"> My-File-Store-Bot </b>
+<b style="font-size: 360px"> My-File-Store-Bot </b>
 
 This is a telegram bot helps you to store your files and get the share able permanent link 
 
