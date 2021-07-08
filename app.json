@@ -1,16 +1,16 @@
 {
   "name": "File Store",
-  "description": "Telegram bot to store your telegram files",
+  "description": "Telegram bot to get stored telegram files of Temp",
   "keywords": [
     "telegram",
     "best",
     "Store",
     "Files"
   ],
-  "logo": "https://telegra.ph/file/bdd3352951be090a56590.jpg",
-  "success_url": "https://telegram.dog/filestore_Nsbot",
-  "website": "https://github.com/Ns-Bots/TG-File-Store",
-  "repository": "https://github.com/Ns-Bots/TG-File-Store",
+  "logo": "https://www.cyclonis.com/images/2020/11/archivefile-765x557.jpg",
+  "success_url": "https://telegram.dog/my_filestore_v2_bot",
+  "website": "https://github.com/freecontent/My-File-Store-Bot",
+  "repository": "https://github.com/freecontent/My-File-Store-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
