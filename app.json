@@ -9,8 +9,8 @@
   ],
   "logo": "https://www.cyclonis.com/images/2020/11/archivefile-765x557.jpg",
   "success_url": "https://telegram.dog/my_filestore_v2_bot",
-  "website": "https://github.com/freecontent/My-File-Store-Bot",
-  "repository": "https://github.com/freecontent/My-File-Store-Bot",
+  "website": "https://github.com/freecontent/My-File-Store-V2-Bot",
+  "repository": "https://github.com/freecontent/My-File-Store-V2-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
