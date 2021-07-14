@@ -3,7 +3,7 @@
 This is a telegram bot helps you to store your files and get the share able permanent link 
 
 <a href="https://telegram.dog/my_filestore_v2_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/freecontent/My-File-Store-Bot)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/freecontent/My-File-Store-V2-Bot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/TG_FreeBots_Support)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/TG_FreeBots_Support)
 
@@ -28,7 +28,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freecontent/My-File-Store-Bot/tree/V1.2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freecontent/My-File-Store-V2-Bot/tree/V1.2)
 
 ## Tools Used 🧰
 - Language Used [<img src="https://telegra.ph/file/960ed8709acaf8c68b894.jpg" width="100" height="30">](https://www.python.org/)
