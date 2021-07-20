@@ -2,8 +2,8 @@
 
 This is a telegram bot helps you to store your files and get the share able permanent link 
 
-<a href="https://telegram.dog/my_filestore_v2_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/freecontent/My-File-Store-V007)
+<a href="https://telegram.dog/my_filestore_v4_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/freecontent/My-File-Store-V4-Bot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20me-anything-1abc9c.svg)](https://telegram.dog/TG_FreeBots_Support)
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/TG_FreeBots_Support)
 
@@ -19,7 +19,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 
 - `UPDATE_CHANNEL:` Your telegram channel username without @ to add force sub. Leave it empty if you don't wanna add. Example: Ns_bot_updates
 
-- `OWNER_ID:` Get your user id from [MissRose <img src="https://telegra.ph/file/0a36032bd2221c8d4209d.jpg" width="30" height="30">](https://telegram.dog/MissRose_bot) or [My File Store Bot <img src="https://www.cyclonis.com/images/2020/11/archivefile-765x557.jpg" width="50" height="30">](https://telegram.dog/my_filestore_v2_bot)
+- `OWNER_ID:` Get your user id from [MissRose <img src="https://telegra.ph/file/0a36032bd2221c8d4209d.jpg" width="30" height="30">](https://telegram.dog/MissRose_bot) or [My File Store Bot <img src="https://www.cyclonis.com/images/2020/11/archivefile-765x557.jpg" width="50" height="30">](https://telegram.dog/my_filestore_v4_bot)
 
 - `IS_PRIVATE:` Add True if you want to use private ,make sure u add AUTH_USERS if you are using IS_PRIVATE
 
@@ -28,7 +28,7 @@ This is a telegram bot helps you to store your files and get the share able perm
 ## Deploy to heroku 🗳
 Press the button Deploy to heroku and give the values for the config vars. 👇
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freecontent/My-File-Store-V007/tree/V1.2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/freecontent/My-File-Store-V4-Bot/tree/V1.2)
 
 ## Tools Used 🧰
 - Language Used [<img src="https://telegra.ph/file/960ed8709acaf8c68b894.jpg" width="100" height="30">](https://www.python.org/)
