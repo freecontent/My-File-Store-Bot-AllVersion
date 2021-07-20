@@ -70,7 +70,7 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [FREE BOT UPDATES](https://https://t.me/TG_FreeBots_Support)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [FREE BOT UPDATES](https://t.me/TG_FreeBots_Support)
 
 🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/freecontent/My-File-Store-V2-Bot)
 """
